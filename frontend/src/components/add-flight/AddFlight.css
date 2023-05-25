@@ -1,0 +1,36 @@
+.add-flight {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, .6);
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-flight__container {
+    width: 480px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #fcfcfc;
+}
+
+.add-flight__title {
+    font-size: 24px;
+}
+
+.add-flight__hint {
+    font-size: 14px;
+    font-weight: 300;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.add-flight__buttons {
+    padding-top: 10px;
+}
+ 

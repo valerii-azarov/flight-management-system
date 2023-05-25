@@ -1,0 +1,23 @@
+.header {
+    height: 60px;
+    background: #6c2cff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.header__title {
+    font-size: 22px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.header__link {
+    color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    text-decoration: underline;
+}

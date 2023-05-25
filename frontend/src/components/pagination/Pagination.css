@@ -1,0 +1,23 @@
+.pagination-container {
+  display: flex;
+  align-items: center;
+  margin: 10px 20px;
+}
+
+.pagination-field {
+  margin-right: 15px;
+}
+
+.pagination-page {
+  margin: 0 15px;
+}
+
+.pagination-select {
+  height: 30px;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+  width: 100%;
+  font-size: 14px;
+  padding: 5px;
+  box-sizing: border-box;
+}
