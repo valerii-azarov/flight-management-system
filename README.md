@@ -44,6 +44,8 @@ Flight Management System is a web application that allows users to manage flight
 
 - React: A JavaScript library for building user interfaces.
 
+- Redux: A predictable state container for managing application state.
+
 - CSS: Cascading Style Sheets for styling the user interface.
 
 ### Backend
